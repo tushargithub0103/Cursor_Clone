@@ -13,7 +13,7 @@ Reference inspiration
 
 ## Live Preview
 
-Project link: 
+Project link: https://tushargithub0103.github.io/Cursor_Clone/
 ---
 
 ## Preview
